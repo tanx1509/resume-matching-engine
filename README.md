@@ -71,16 +71,6 @@ Aditya Kumar(0.67), Priya Nair(0.58), Ananya Krishnan(0.35)
 
 **Tie-breaking** — `scores.sort(key=lambda x: (-x[1], x[0]))` — descending score, then lexicographic name. Deterministic.
 
----
-
-## File Structure
-
-```
-TanishqSethi_Hackathon.ipynb   — full implementation notebook
-README.md                      — this file
-```
-
----
 
 ## Author
 
